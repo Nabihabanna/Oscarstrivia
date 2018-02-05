@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Oscars Trivia</string>
+    <string name="insert_name">Name: </string>
+    <string name="question_1">1. Who has won the most directing Academy Awards?</string>
+    <string name="william_wyler">William Wyler</string>
+    <string name="steven_spielberg">Steven Spielberg</string>
+    <string name="john_ford">John Ford</string>
+    <string name="frank_capra">Frank Capra</string>
+    <string name="question_2">2. Who has won the most Acting Academy Awards?</string>
+    <string name="meryl_streep">Meryl Streep</string>
+    <string name="ingrid_bergman">Ingrid Bergman</string>
+    <string name="katharine_hepburn">Katharine Hepburn</string>
+    <string name="jack_nicholson">Jack Nicholson</string>
+    <string name="question_3"> 3. What year was the first Academy Awards ceremony held?</string>
+    <string name="d1929"> 1929</string>
+    <string name="d1910"> 1910</string>
+    <string name="d1925"> 1925</string>
+    <string name="d1942"> 1942</string>
+    <string name="question_4"> 4. What Film won the first Academy Award for Best Picture?</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Wings">Wings</string>
+    <string name="the_broadway_melody">The Broadway Melody</string>
+    <string name="all_quiet">All Quiet on the Western Front</string>
+    <string name="question_5">5. Who is the only woman to win three competitive Oscars in one year?</string>
+    <string name="edith_head"> Edith Head</string>
+    <string name="sofia_coppola">Sofia Coppola</string>
+    <string name="fran_walsh">Fran Walsh</string>
+    <string name="question_6">6. Who was the first African American to win an Academy Award?</string>
+    <string name="dorothy_dandridge">Dorothy Dandridge</string>
+    <string name="sidney_poitier">Sidney Poitier</string>
+    <string name="hattie_mcDaniel">Hattie McDaniel</string>
+    <string name="james_baskett">James Baskett</string>
+    <string name="question_7">7. Which TWO of the following films received zero nominations?</string>
+    <string name="deadpool">Deadpool</string>
+    <string name="hail_caesar">Hail,Caesar</string>
+    <string name="silence">Silence</string>
+    <string name="zodiac">Zodiac</string>
+    <string name="question_8">8. How many wholly animated films have ever been nominated for Best Picture?</string>
+    <string name="d3">3</string>
+    <string name="d1">1</string>
+    <string name="d2">2</string>
+    <string name="d4">4</string>
+    <string name="question_9">9. Which country has won Best Foreign Film the most often?</string>
+    <string name="japan">Japan</string>
+    <string name="sweden">Sweden</string>
+    <string name="france">France</string>
+    <string name="italy">Italy</string>
+    <string name="question_10">10.	What is the only best picture winner to also to claim a clean sweep and win in every category it was nominated?</string>
+    <string name="titanic">Titanic</string>
+    <string name="ben_hur">Ben-Hur</string>
+    <string name="lord">Lord of the Rings: Return of the King</string>
+    <string name="gone">Gone with the Wind</string>
+    <string name="score_message"> </string>
+    <string name="button">SUBMIT</string>
+    <string name="copyright">© 2018 Nabiha AlBanna. All Rights Reserved </string>
+
+</resources>
+
+
